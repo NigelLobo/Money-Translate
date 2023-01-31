@@ -1,2 +1,2 @@
 # Money-Translate
-UofTHacks X Submission. Try it at https://moneytranslate.pythonanywhere.com
+UofTHacks X Submission. Previously live at https://moneytranslate.pythonanywhere.com
