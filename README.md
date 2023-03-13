@@ -4,7 +4,7 @@ Financial literacy doesn't have to be hard... introducing Money Translate. This 
 ![Money Translate Logo](https://github.com/NigelLobo/UofTHacks-X/blob/main/moneytranslate/media/logo.png)
 
 
-Built with Django (Python) and React. 
+Built with Django (Python) and React
 
 UofTHacks X Submission. View a demo and the Devpost submission at https://devpost.com/software/money-translate. 
 
